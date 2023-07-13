@@ -27,6 +27,10 @@ For this project I was tasked with crating a quiz application on the basics of c
 https://sbehashti.github.io/Coding-Quiz/
 
 ## Deployed Page
+![sbehashti github io_Coding-Quiz_](https://github.com/Sbehashti/Coding-Quiz/assets/135624229/44a03b7f-8242-416a-818a-6f230f7a75e6)
+![sbehashti github io_Coding-Quiz_ (1)](https://github.com/Sbehashti/Coding-Quiz/assets/135624229/dd5cdb65-957a-49e9-9115-883ff0e65df3)
+![sbehashti github io_Coding-Quiz_ (2)](https://github.com/Sbehashti/Coding-Quiz/assets/135624229/61da8964-34a2-4a73-8e2d-7239f022f91e)
+![sbehashti github io_Coding-Quiz_ (3)](https://github.com/Sbehashti/Coding-Quiz/assets/135624229/ab07b6b6-307f-46fe-8153-6b8237615d87)
 
 
 ## Credits
