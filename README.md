@@ -1,2 +1,2 @@
-# Coding-Quiz
-Creating a Coding Quiz (Demonstrating Knowledge of Web API)
+# Creating a Coding Quiz 
+For this project I was 
