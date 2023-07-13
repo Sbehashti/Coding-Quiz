@@ -24,7 +24,7 @@ For this project I was tasked with crating a quiz application on the basics of c
 - When all questions are answered or when time has run out, the quiz is over and a finished message is displayed, under which the student or quiz taker can save their initials and score locally
 
 ## Deployed Page URL
-
+https://sbehashti.github.io/Coding-Quiz/
 
 ## Deployed Page
 
